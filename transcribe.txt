@@ -1,0 +1,383 @@
+wav_id : transcription
+bom-01 : Ney na se re pyE
+bom-02 : Dara a se re pyE
+bom-03 : Ngo a se re pyE
+bom-04 : Hwey o ha se re pyE
+bom-05 : Gwa hom a se re pyE
+bom-06 : Mwat basa hom a se re pyE
+bom-07 : Vwoshon hom a se re pyE
+bom-08 : Mwat shot hom a se re pyE
+bom-09 : Kan tok hom a se re pyE
+bom-10 : Hwey hom ha se re pyE
+bom-11 : So hom a se re pyE
+bom-12 : Hwong hom a se re pyE
+bom-13 : Ney hom na se re pyE
+bom-14 : Besa hom ba se re pyE
+bom-15 : Behwi hom ba se re pyE
+bom-16 : Begwasha hom ba se re pyE
+bom-17 : Ney lo basa na se re pyE
+bom-18 : Bevu ba se re pyE
+bom-19 : Bengyi ba se re pyE
+bom-20 : Behwong ba se re pyE
+bom-21 : Beha ba se re pyE
+bom-22 : Bebot bemat ba se  re pyE
+bom-23 : Ney na se ra fwom
+bom-24 : Dara a se ra fwom
+bom-25 : Ngo a se ra fwom
+bom-26 : Hwey o ha se ra fwom
+bom-27 : Gwa hom a se ra fwom
+bom-28 : Mwat basa hom a se ra fwom
+bom-29 : Vwoshon hom a se ra fwom
+bom-30 : Mwat shot hom a se ra fwom
+bom-31 : Kan tok hom a se ra fwom
+bom-32 : Hwey hom ha se ra fwom
+bom-33 : So hom a se ra fwom
+bom-34 : Hwong hom a se ra fwom
+bom-35 : Ney hom na se ra fwom
+bom-36 : Besa hom ba se ra fwom
+bom-37 : Behwi hom ba ra fwom
+bom-38 : Begwasha hom ba se ra fwom
+bom-39 : Ney lo basa na se ra fwom
+bom-40 : Bevu ba se ra fwom
+bom-41 : Bengyi ba se ra fwom
+bom-42 : Behwong ba se ra fwom
+bom-43 : Beha ba se ra fwom
+bom-44 : Bebot bemat ba se ra fwom
+bom-45 : Ney o na se ra fwom wEt
+bom-46 : Dara a se ra fwom wEt
+bom-47 : Ngo a se ra fwom wEt
+bom-48 : Hwey o ha se ra fwom wEt
+bom-49 : Gwa hom a se ra fwom wEt
+bom-50 : Mwat basa hom a se ra fwom wEt
+bom-51 : Vwoshon hom a se ra fwom wEt
+bom-52 : Mwat shot hom a se ra fwom wEt
+bom-53 : Kan tok hom a se ra fwom wEt
+bom-54 : Hwey hom ha se ra fwom wEt
+bom-55 : So hom a se ra fwom wEt
+bom-56 : Hwong hom a se ra fwom wEt
+bom-57 : Besa hom ba se ra fwom wEt
+bom-58 : Behwi hom ba ra fwom wEt
+bom-59 : Begwasha hom ba se ra fwom wEt
+bom-60 : Ney lo basa na se ra fwom wEt
+bom-61 : Bevu ba se ra fwom wEt
+bom-62 : Bevu mo ba se ra fwom wEt
+bom-63 : Bengyi mo ba se ra fwom wEt
+bom-64 : Behwong o ba se ra fwom wEt
+bom-65 : Beha mo ba se ra fwom wEt
+bom-66 : Bebot bemat ba se ra fwom wEt
+bom-67 : Ney na se tele
+bom-68 : Dara a se tele
+bom-69 : Ngo a se tele
+bom-70 : Hwey o ha se tele
+bom-71 : Gwa hom a se tele
+bom-72 : Mwat basa hom a se tele 
+bom-73 : Vwoshon hom a se tele
+bom-74 : Mwat shot hom a se tele
+bom-75 : Kan tok hom a se tele
+bom-76 : Hwey hom ha se tele
+bom-77 : So hom a se tele
+bom-78 : Hwong hom a se tele
+bom-79 : Ney hom na se tele
+bom-80 : Besa hom ba se tele
+bom-81 : Behwi hom ba se tele
+bom-82 : Begwasha hom ba se tele
+bom-83 : Ney lo basa na se tele
+bom-84 : Bevu ba se tele
+bom-85 : Bengyi ba se tele
+bom-86 : Behwong ba se tele
+bom-87 : Beha ba se tele
+bom-88 : Bebot bemat ba se  tele
+bom-89 : Ney na se ra jo
+bom-90 : Dara a se ra jogo
+bom-91 : Ngo a se ra jogo
+bom-92 : Hwey o ha se ra jogo
+bom-93 : Gwa hom a se ra jogo
+bom-94 : Mwat basa hom a se ra jogo
+bom-95 : Vwoshon hom a se ra jogo
+bom-96 : My shot hom a se ra jogo
+bom-97 : Kan tok hom a se ra jogo
+bom-98 : Hwey hom ha se ra jogo
+bom-99 : So hom a se ra jogo
+bom-100 : Hwong hom a se ra jogo
+bom-101 : Ney hom na se ra jogo
+bom-102 : Besa hom ba se ra jogo
+bom-103 : Behwi hom ba ra jogo
+bom-104 : Begwasha hom ba  se ra jogo
+bom-105 : Ney lo basa na se ra jogo
+bom-106 : Bevu ba se ra jogo
+bom-107 : Bengyi ba se ra jogo
+bom-108 : Behwong ba se ra jogo
+bom-109 : Beha ba se ra jogo
+bom-110 : Bebot bemat ba se ra jogo
+bom-111 : Ma tok wEt  A tok wEt  A tok wEt  YEn a tok wEt 
+bom-112 : Ma ruru  A ruru  YEn a ruru
+bom-113 : Hwa ruru a? YEn a ruru a? A ruru a?
+bom-114 : Dara hom Ngo hom Dara me  
+bom-115 : Dara mo  Ngo mo  Dara mEn  Ngo mEn
+bom-116 : Dara mot  Ngo mot  Dara  Ngo
+bom-117 : Me vey  Maa  vey   
+bom-118 : E vey  A vey
+bom-119 : Wot a vey 
+bom-120 : YEn e vey wEt   Wot a vey wEt   YEn a vey wEt
+bom-121 : YEn a vey   E vey a   YEn e vey a?   Me vey a
+bom-122 : Me vey yunung  Maa vey yunung  E vey yunung A vey yunung 
+bom-123 : Wot e vey yunung  YEn e vey yunung 
+bom-124 : Wot a vey yunung  YEn a vey yunung
+bom-125 : YEn e vey yunung a? E vey yunung a? Me vey a yunung a?
+bom-126 : Me vey nahwol  E vey nahwol  Wot e vey nahwol 
+bom-127 : YEn e vey nahwol  E vey nahwol a? YEn e vey nahwol a? E vey nahwol a? Me vey a nahwol a?
+bom-128 : Me vey nahwol wEt   E vey nahwol wEt  Wot e vey nahwol wEt  YEn e vey nahwol wEt
+bom-129 : Me vey gwane  E vey gwane  Wot e vey gwane  YEn e vey gwane 
+bom-130 : E vey gwane a? Me vey gwane a?
+bom-131 : YEn a vey gwane   E vey gwane a?  YEn e vey gwane a?
+bom-132 : Duk  Beduk  Lo  Nelo Kya Nshi  Song Bekpatak Rugu Berugu
+bom-133 : Kwon sangal, Duk polo, Duk sangal,  
+bom-134 : Duk ke pyE, Duk kus, Duk tos, Lo basa, Dem fwom sElo
+bom-135 : Duk badu, Duk shot, Duk hwal ,JÉk, Basa, Torong, NgyEgEt
+bom-136 : Tok tsik, Kundung ha, Kundung zina,  Lo kundung ha, Lo kundung zina, Cuna, Mwat fwom gwom
+bom-137 : Dem, Bedem, Bemwat fwom gwom, Mwat hwon tot, Kwon hwon tot, Tak tot
+bom-138 : Mwat basa, KwEnEt, KwEngEl, Dwa, Dwa bol naas, Dwa nshi, Dwa lagwi
+bom-139 : Narang, Ro, Rwi, Gwad, Ncham, Gwi, PwEl, Jey
+bom-140 : Shom, Yey pyeng, Lasak yey, Fwom, Nvwa, Tomo, Nerey
+bom-141 : ZErE, Tsak o, Bos, Ziri, HwE, Kpam tuk
+bom-142 : Rwak, Gul,Gwofwa, Beta,Neta, NazEng,Naahos,Gwobwok rwang, Bebeok rwang
+bom-143 : Ma se gyeng o  Ma se gyeng hin  Wot a se gyeng o  Wot a se gyeng hin
+bom-144 : Wot a se gyeng o yaga na wot e kye e jeng jining  Wot a se gyeng hin yaga na wot e kye e jeng jining
+bom-145 : Te e sElE hEn   Me simi sElE
+bom-146 : SElEme  SElE hwot  SElEhEn  SElE hE
+bom-147 : Te e wok hEn   Me simi na ho wok me
+bom-148 : Wok me  Wok hwot  
+bom-149 : Wok hEn Wok hE
+bom-150 : Yin a se e gwa?  Yin a lErE hin e gwa?
+bom-151 : Yin a yi e ngwa?  Yin a se kye wo e gwa?
+bom-152 : Yin a se ra sE ?  Yin a wo e gwa?
+bom-153 : Gyeng  Yaga
+bom-154 : Jeng jining
+bom-155 : Jeng   Jining
+bom-156 : Yas mE
+bom 157 : Nton mE na te yE a bide yas mE
+bom-158 : Nton mE
+bom_159 : Na te yE
+bom-160 : A bide
+bom-161 : Ma vok yey pyeng de ma di ho
+bom-162 : Ma vok yey pyeng de ma di yin
+bom-163 : Ma vok yey pyeng de ma di yEn
+bom-164 : Wot a vok yey pyeng de wot a di ho  Wot a vok yey pyeng de wot a di yin
+bom-165 : Wot a vok yey pyeng de wot a di yEn
+bom-166 : Hwa yi e ngwa? Hwa se kye wo e gwa?
+bom-167 : Hwa se ra sE,? Hwa wo e gwa?
+bom-168 : Hwa se e gwa? Hwa lErE ho e gwa?
+bom-169 : YEn a yi e ngwa?  YEn a se kye wo e gwa?
+bom-170 : YEn a se ra sE,? YEn a wo e gwa?
+bom-171 : YEn a se e gwa? YEn a lErE hEn e gwa?
+bom-172 : Nton mEn na te yEn yEn a bide yas mEn
+bom-173 : Nton mot na te wot wot a bide yas mot
+bom-174 : Nton mo na te ho hwa bide yas mo
+bom-175 : Ney na se rE
+bom-176 : Dara a se rE
+bom-177 : Ngo a se rE
+bom-178 : Hwey o ha se rE
+bom-179 : Gwa hom a se rE
+bom-180 : Mwat basa hom a se rE 
+bom-181 : Vwoshon hom a se rE
+bom-182 : Mwat shot hom a se rE
+bom-183 : Kan tok hom a se rE
+bom-184 : Hwey hom ha se rE
+bom-185 : So hom a se rE
+bom-186 : Hwong hom a se rE
+bom-187 : Ney hom na se rE
+bom-188 : Besa hom ba se rE
+bom-189 : Behwi hom ba se rE
+bom-190 : Begwasha hom ba se rE
+bom-191 : Ney lo basa na se rE
+bom-192 : Bevu ba se rE
+bom-193 : Bengyi ba se rE
+bom-194 : Behwong ba se rE
+bom-195 : Beha ba se rE
+bom-196 : Bebot bemat ba se  rE
+bom-bib1 : Yɛn a wɔ̀ wul yɛnɛ̂ sevwêl BeGerasa de sa sé e gurâ Gworep Galili. Sede Yɛsu a sé nusu yi e dwa-nshi
+bom-bib2 : ko mwat hwak a nusu yi e tara de be lɛsɛ ɛ̀ bavîn bemat, a man na yɛ. Mwat o a vɔk ceng e rato mɛ
+bom-bib3 : ko kwɔ̂n sangal mɛ a hane de be lɛsɛ ɛ̀ bemat. Vit a mwat de a tɔk rɔgɔs hɛ na ngyang kwong wɛt. Ba kana rɔgɔs vɔ mɛ na bol mɛ na ngyang zang pyak
+bom-bib4 : ko a kwɔrɔs yemo de ya sé e bol mɛ. Vit a mwat de a to tɔk ra pyɛ cak na yɛ, yaga a vɔk gap sizɔng. Nagwi na naturuk, a kyě kyè e ji tara na beraku,
+bom-bib5 : ko a yɛt rebek mɛ na beta.Sede a di Yɛsu yikyik, a yi na setele, a pom, a gaba e nuyel mɛ, ko a gbɔ na gbɔng fwɔ
+bom-bib6 : yaga Yɛsu á kana yang ɛ, À ceng, nusu hwo yi e ji mwat womo Ko Yɛsu a rangal hɛ, a ye, Be tang o, à wà arɛt Mwat o a toyo a yɛ, a ye
+bom-bib7 : Be tang me, à Pyak  yaga wot a sé hyɔt! Ko a ra won na Yɛsu ding-ding, de a pat yɛ̄ yi e yɛnɛ̂ sevwel sane wɛt.
+bom-bib8 : Kwarâ bezà rwey o gwa losho hɛ bagat e hwomo, gwa sé re sehwey e vwâ raku. Ko cēng o ya ra won na Yɛsu
+bom-bib9 : Tomo hot vɔk e ji bezà, na hwo tik ot, na wot a wɔ̀ yel e ji vɛ.
+bom-bib10 : Cēng o ya nusu yi e ji mwat o, ko ya wɔ̀ yel e ji bezà mo. Kwara mo mwa de gwa sé sede gu baba
+bom-bib11 : gwa hwo tele cidirang e vwak, gwa wɔ̀ gaba e ji gworep, ko nshi mo na vo gwɛ. Bemât gyeng bezà mo ba jut setele, ba wɔ̀ shara há mo e ji repomo 
+bom-bib12 : mo e ji repomo tanga nebapomo arɔng. Bemat ba nusu, na be wɔ̀ di pyɛ de ya ga té. Jeng de yɛn a vey na Yɛsu, yɛn a di mwat de á kana vɔk cēng pyak e sangal. A ga bang ɛ na berugu, ko nehywɛ mɛ na ga to 	 ɛn. Ko yɛn mwa ba wok bengyip
+bom-bib13 : Vemo de bá kana di yɛn a ha a bemat o pyɛ de yá kana té na mwat o, na e ra bezà arɔng. Ko yɛn a wɔ̀ ra won na Yɛsu, na a hàla yɛnɛ̂ sevwel mɛn o
+bom-bib14 : Jeng de Yɛsu a sé yel e ji dwa-nshi, mwat de á kana vɔk cēng a ra won na yɛ, a yang ɛ, “Mê tɔk kyè tanga hwo arɛt Ko Yɛsu a simo a yɛ wɛt, a yang ɛ, Ci vɔk e lɔ na bemât lɔ mō
+bom-bib15 : na hwo wɔ̀ ha a yɛn gbɔng pyɛ de Darwey a ga ra a hwo, na yerê toshô reyɔm de a ga dura a hwo arɔng
+bom-bib16 : Mwat o a kyè, ko a yel e ji bapomo kuru de ba tâng vɛ, à Dekapolis, a hwo shara rehâ gbɔng pyɛ de Yɛsu a ga ra a yɛ. Ko mwa bemat de ba wok ba langat hɛn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

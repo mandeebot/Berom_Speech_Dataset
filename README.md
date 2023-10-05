@@ -57,6 +57,6 @@ If you would like to contribute to this project by recording more audio files an
 
 ## Original Author
 
-[Mandieng Bot](http://mandeebot.github.io/)
+[Mandieng Bot](https://www.linkedin.com/in/mandiengbot/)
 
 ## License

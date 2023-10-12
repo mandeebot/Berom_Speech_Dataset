@@ -48,7 +48,7 @@ The dataset can be used majorly for low-resource speech model experiments or for
 
 ## Problems Encountered
 -Berom is a low resource language, meaning there is a very very low amount of resources online to supplement this, actively working towards generating more Berom speech data to add to this repo
-- so far the text transcriptions collected **D0 NOT** have their  tonal descriptions represented, this sets this dataset at some disadvantage, as it is very common in the Berom Language to have one word with different meanings, the different meanings of such a word is often indicated by the tone present in the word. Working towards updating this repo with data that have their tonal descriptions represented
+- so far the text transcriptions collected **D0 NOT** have their  tonal descriptions represented(diacritcs), this sets this dataset at some disadvantage, as it is very common in the Berom Language to have one word with different meanings, the different meanings of such a word is often indicated by the tone present in the word. Working towards updating this repo with data that have their tonal descriptions represented
 - Recording speech takes time and can become uninteresting to perform quickly.
 
 ## Contributing
